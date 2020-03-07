@@ -111,7 +111,7 @@ GEM
       activesupport (>= 3.0.0)
     faraday (0.15.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.23)
+    ffi (1.12.2)
     fugit (1.1.1)
       et-orbi (~> 1.1, >= 1.1.1)
       raabro (~> 1.1)
